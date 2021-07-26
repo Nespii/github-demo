@@ -1,0 +1,1 @@
+Test de prueba en fichero de texto desde comando
